@@ -4,11 +4,15 @@
   "description": "Weather Card design",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\" "
   },
   "author": "Kyaw Moe Han",
   "license": "MIT",
   "dependencies": {
     "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "live-server": "^1.2.1"
   }
 }
