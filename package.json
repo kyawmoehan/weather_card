@@ -1,0 +1,14 @@
+{
+  "name": "weather_card",
+  "version": "1.0.0",
+  "description": "Weather Card design",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyaw Moe Han",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}
